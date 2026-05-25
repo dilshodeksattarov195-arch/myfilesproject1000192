@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcalculate",
+        "uuid": 461568,
+        "checksum": "dgov4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
